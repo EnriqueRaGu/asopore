@@ -1,0 +1,55 @@
+  /*FORMULARIO AFILIACION*/
+  .contenido_afiliar {
+    margin-top: 8rem;
+    width: 800px;
+    background-color: #C6C6C6;
+    height: 500px;
+    margin-left: 18rem;
+     border-radius: 6px;
+  border-color: #E0E0E0;
+  }
+  .imgasoporeform {
+    width: 80px;
+    height: 80px;
+    margin-left: 45%;
+    margin-top: 10px;
+   }
+   #aso {
+       margin-left: 9rem;
+       letter-spacing: 1px;;
+       font-weight: bold;
+   }
+   #aso1 {
+    margin-left: 20rem;
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: -15px;
+}
+::placeholder {
+  color: #9E9E9E;
+}
+
+input {
+  width: 28%;
+  height: 38px;
+  font-family: 'arial';
+  padding-left: 10px;
+  border-style: solid;
+  margin: 5px;
+  border-radius: 6px;
+  border-color: #E0E0E0;
+  font-size: 14px;
+margin-left: 20px;
+}
+
+.guardar {
+  background-color: #388E3C;
+  border: none;
+  width: 15rem;
+  height: 2.3rem;
+  float: right;
+  margin-right: 20rem;
+
+  color: white;
+}
+

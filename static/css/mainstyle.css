@@ -1,0 +1,36 @@
+body{
+	background-color: #ccc;
+}
+#todo{
+	padding: 0px;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+#containernav{
+	width: 75%;
+	float: right;
+}
+
+#containersidebar{
+	width: 25%;
+	height: 650px;
+	float: left;
+}
+#user{
+	width: 100%;
+	height: 180px;
+	background-color: red;
+}
+#opciones{
+	width: 100%;
+	height: 470px;
+	background-color: yellow;
+}
+
+#container{
+	width: 75%;
+	height: 100px;
+	background-color: green;
+	float: right;
+}
