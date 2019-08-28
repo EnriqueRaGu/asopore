@@ -30,7 +30,7 @@
 					</form>
 				</div>
 			</div>
-			<a href="<?=base_url()?>index.php/cambiarpassword"><p id="contrasena">Cambiar contraseña</p></a>
+			<a href="<?=base_url()?>index.php/cambiarpassword"><p id="contrasena">Cambiar clave</p></a>
 			<a href="<?=base_url()?>"><p id="contrasena">Volver</p></a>
 						
 		</div>
